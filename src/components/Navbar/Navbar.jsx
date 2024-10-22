@@ -3,7 +3,7 @@ import './Navbar.css';
 import { FaUserCircle } from 'react-icons/fa';
 import { MdOutlineMessage } from "react-icons/md";
 import logo from "../../assets/logo.png"
-
+    
 const Navbar = () => {
   return (
     <nav className="navbar">
